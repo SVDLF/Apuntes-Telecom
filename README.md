@@ -67,6 +67,7 @@ Velocidad de Transmisión	Categoría (TIA)	Clase (ISO/IEC)	Frecuencia Máxima
 1 Gbps	Cat 5e	Clase D	100 MHz
 10 Gbps	Cat 6A	Clase EA	500 MHz
 40 Gbps	Cat 8	Clase I / II	2000 MHz
+
 4. Glosario de Abreviaciones Técnicas
 
 NEXT (Near-End Crosstalk): Interferencia entre pares de conductores medida en el extremo cercano de la transmisión.
