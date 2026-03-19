@@ -1,30 +1,27 @@
 # Apuntes-Telecom
 Bitácora Técnica de Normatividad en Redes
-1. Objetivo
 
-El presente documento tiene como finalidad describir y analizar los principales estándares internacionales de cableado estructurado, destacando su importancia en el diseño de infraestructuras de red interoperables, escalables y libres de dependencias con fabricantes específicos.
-
-2. Estándares y Normativas Internacionales
+1. Estándares y Normativas Internacionales
 
 La implementación de estándares internacionales garantiza la compatibilidad entre dispositivos y sistemas de distintos fabricantes, evitando soluciones propietarias que limiten la flexibilidad tecnológica y aumenten los costos operativos.
 
-2.1 Telecommunications Industry Association (TIA)
+1.1 Telecommunications Industry Association (TIA)
 
 Organización norteamericana encargada de desarrollar estándares para el diseño, instalación y verificación de sistemas de telecomunicaciones. Sus normas son ampliamente utilizadas en América.
 
-2.2 Electronic Industries Alliance (EIA)
+1.2 Electronic Industries Alliance (EIA)
 
 Entidad que históricamente contribuyó al desarrollo de estándares electrónicos. Aunque actualmente no se encuentra activa, su legado permanece en normativas como TIA/EIA-568.
 
-2.3 ISO/IEC
+1.3 ISO/IEC
 
 Organización internacional de normalización que establece estándares globales. En el ámbito de redes, destaca la norma ISO/IEC 11801, ampliamente adoptada en Europa y Asia para el diseño de cableado estructurado.
 
-3. Estándar TIA/EIA-568
+2. Estándar TIA/EIA-568
 
 El estándar TIA/EIA-568 define las especificaciones para el cableado estructurado, incluyendo las configuraciones de terminación para conectores RJ45.
 
-3.1 Configuración T568A
+2.1 Configuración T568A
 
 Blanco/Verde
 
@@ -42,7 +39,7 @@ Blanco/Marrón
 
 Marrón
 
-3.2 Configuración T568B
+2.2 Configuración T568B
 
 Blanco/Naranja
 
@@ -62,7 +59,7 @@ Marrón
 
 Consideración técnica: Ambas configuraciones son funcionalmente equivalentes; sin embargo, es imprescindible mantener la misma norma en ambos extremos del cable para asegurar la correcta transmisión de datos.
 
-4. Clasificación de Rendimiento
+3. Clasificación de Rendimiento
 
 A continuación, se presenta una comparación entre las categorías definidas por TIA y las clases establecidas por ISO/IEC:
 
@@ -70,7 +67,7 @@ Velocidad de Transmisión	Categoría (TIA)	Clase (ISO/IEC)	Frecuencia Máxima
 1 Gbps	Cat 5e	Clase D	100 MHz
 10 Gbps	Cat 6A	Clase EA	500 MHz
 40 Gbps	Cat 8	Clase I / II	2000 MHz
-5. Glosario de Abreviaciones Técnicas
+4. Glosario de Abreviaciones Técnicas
 
 NEXT (Near-End Crosstalk): Interferencia entre pares de conductores medida en el extremo cercano de la transmisión.
 
@@ -86,7 +83,7 @@ TR (Telecommunications Room): Espacio destinado a la distribución del cableado 
 
 ER (Equipment Room): Sala destinada a albergar equipos principales de red y telecomunicaciones.
 
-6. Normas Complementarias
+5. Normas Complementarias
 
 Además del estándar principal, existen normas que complementan el diseño e implementación de redes estructuradas, especialmente en entornos profesionales e industriales:
 
