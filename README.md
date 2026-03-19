@@ -57,6 +57,10 @@ Blanco/Marrón
 
 Marrón
 
+Imagen de ambas configuraciones
+<img width="1024" height="515" alt="image" src="https://github.com/user-attachments/assets/b0d4b588-d3b8-49f4-9982-bac6670caf20" />
+
+
 Consideración técnica: Ambas configuraciones son funcionalmente equivalentes; sin embargo, es imprescindible mantener la misma norma en ambos extremos del cable para asegurar la correcta transmisión de datos.
 
 3. Clasificación de Rendimiento
